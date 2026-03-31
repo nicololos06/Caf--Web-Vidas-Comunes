@@ -1,0 +1,1223 @@
+@media(ancho mínimo: 1200px) {
+	.contenedor {
+		ancho máximo: 1320px;
+		relleno: 0 15px;
+	}
+}
+
+@media solo pantalla y (ancho mínimo: 1499px) y (ancho máximo: 1900px){
+	.foholic-barra lateral fija .envoltura de menú .logotipo de encabezado{
+		relleno: 40px 0 54px 0;
+	}
+	.menu-wrap .fixed-menu-wrap{
+		relleno inferior: 43px;
+	}
+	.menu-wrap .fixed-menu-wrap>ul>li{
+		relleno inferior: 18px;
+	}
+	.foholic-social-ic{
+		relleno superior: 37px;
+	}
+	.foholic_slider{
+		altura: 768px;
+	}
+}
+
+@media(ancho máximo: 1700px) {
+	.menu_nav button.navs-tabs:antes{
+		contenido: ninguno;
+	}
+	.blog_de_equipo .contenido-modal{
+		relleno: 30px 0;
+	}
+	.blog_de_equipo .pie-de-página-modal{
+		relleno: 30px 0 0 0;
+	}
+}
+
+@media(ancho máximo: 1680px) {
+	.recipiente{
+		relleno: 0 30px;
+	}
+	.season_tast {
+		margen superior: -20px;
+	}
+	.foholic_slider{
+		altura: 768px;
+	}
+}
+
+@media(ancho máximo: 1500px) {
+	.foholic_slider{
+		altura: 768px;
+	}
+	.blog_boxes .container{
+		relleno: 0 30px;
+	}
+	.recipiente{
+		relleno: 0 30px;
+	}
+	.foholic-barra lateral fija .envoltura de menú .logotipo de encabezado{
+		relleno: 40px 0 54px 0;
+	}
+	.menu-wrap .fixed-menu-wrap{
+		relleno inferior: 45px;
+	}
+	.tema-btn{
+		izquierda: -85px;
+	}
+	.season_tast {
+		margen superior: 45px;
+	}
+	botón .food_menu_item{
+		margen: 0 22px 0 0;
+	}
+	.foholic_menu{
+		relleno: 96px 0 61px 0;
+	}
+	.publicación_de_barra_lateral{
+		relleno: 30px;
+	}
+	.elementos relacionados {
+		relleno: 10px 0;
+	}
+	.título_del_artículo{
+		tamaño de fuente: 18px;
+	}
+}
+
+@media solo pantalla y (ancho mínimo: 1439px) y (ancho máximo: 1499px){
+	.menu-wrap .fixed-menu-wrap>ul>li{
+		relleno inferior: 20px;
+	}
+}
+
+@media solo pantalla y (ancho mínimo: 1330px) y (ancho máximo: 1380px){
+	.foholic-barra lateral fija .envoltura de menú .logotipo de encabezado{
+		relleno: 30px 0 40px 0!importante;
+	}
+	.menu-wrap .fixed-menu-wrap>ul>li {
+		relleno inferior: 16px!importante;
+	}
+	.menu-wrap .fixed-menu-wrap {
+		relleno inferior: 20px;
+	}
+	.foholic-social-ic {
+		relleno superior: 27px;
+	}
+	.menu-wrap .menu-table{
+		relleno: 10px 20px 15px 20px;
+	}
+	.foholic_slider .swiper-slide{
+		altura máxima: 700px;
+		altura: 100%;
+	}
+	.foholic_slider .swiper-contenedor{
+		altura máxima: 700px;
+		altura: 100%;
+	}
+	.foholic_slider {
+		altura: 650px!importante;
+	}
+	.foholic_slider .swiper-container-horizontal > .swiper-pagination-bullets{
+		abajo: 50px;
+	}
+}
+
+@media(ancho máximo: 1440px) {
+	.foholic_slider{
+		altura: 768px;
+	}
+	.foholic-barra lateral fija{
+		ancho: 340px;
+	}
+	.foholic_content{
+		ancho: calc(100% - 340px);
+	}
+	.foholic-barra lateral fija .envoltura de menú .logotipo de encabezado{
+		relleno: 40px 0 60px 0;
+	}
+	.menu-wrap .fixed-menu-wrap>ul>li{
+		relleno inferior: 20px;
+	}
+	.menu-table .número-de-reserva{
+		tamaño de fuente: 28px;
+		altura de línea: 28px;
+	}
+	.foholic-social-ic .social-ic:no(:último-hijo) {
+		margen derecho: 12px;
+	}
+	.foholic-social-ic .social-ic{
+		relleno: 12px;
+	}
+	.caja de equipo{
+		ancho: 65%;
+	}
+	.hover-icons a{
+		ancho: 50px;
+		altura: 50px;
+		altura de línea: 50px;
+		tamaño de fuente: 18px;
+	}
+	.efecto-hover{
+		ancho: calc(100% - 60px);
+		altura: calc(100% - 60px);
+		superior: 30px;
+		izquierda: 30px;
+	}
+	.food-differs .float-end{
+		ancho máximo: 80%;
+	}
+	.food-differs .top-img{
+		ancho máximo: 40%;
+		margen superior: -122px;
+	}
+	.tema-btn {
+		izquierda: -20px;
+	}	
+}
+
+@media(ancho máximo: 1300px){
+	.resto_foods .fila {
+		alinear-elementos: flex-start;
+	}
+	.publicación_de_barra_lateral{
+		margen izquierdo: 20px;
+		relleno: 25px;
+	}
+	.modal_blog_popup .light_bg_shape div{
+		tamaño de fuente: 32px;
+		altura de línea: 50px;
+	}
+	.título_del_artículo{
+		tamaño de fuente: 18px;
+	}
+	.última_fecha{
+		tamaño de fuente: 14px;
+	}
+	botón .food_menu_item {
+		margen: 0 18px 0 0;
+		tamaño de fuente: 18px;
+		altura de línea: 18px;
+	}
+	.blog-item{
+		relleno: 60px 25px 53px 25px;
+	}
+	.blog-content .blogs-block{
+		relleno inferior: 60px;
+	}
+	.formulario-registro {
+		relleno: 30px 30px 46px 30px;
+	}
+	.form-register .fila>* {
+		relleno-izquierdo: 10px;
+		relleno-derecho: 10px;
+	}
+	.formulario-registro .formulario-entrada {
+		margen inferior: 20px;
+	}
+	.foholic_content {
+		ancho: calc(100% - 320px);
+	}
+	.foholic-barra lateral fija {
+		ancho: 320px;
+	}
+	.menu-table .número-de-reserva{
+		tamaño de fuente: 26px;
+		altura de línea: 26px;
+	}
+	.foholic-social-ic .social-ic:no(:último-hijo) {
+		margen derecho: 8px;
+	}
+	.tema-btn {
+		izquierda: -32px;
+	}
+	.caja de equipo{
+		ancho: 70%;
+	}
+	.foholic-barra lateral fija .menu-wrap .header-logo {
+		relleno: 30px 0 60px 0;
+	}
+	.menu-wrap .fixed-menu-wrap {
+		relleno inferior: 30px;
+	}
+	.foholic-social-ic {
+		relleno superior: 37px;
+	}
+}
+
+@media(ancho máximo: 1199px){
+	.foholic-barra lateral fija{
+		pantalla: ninguna;
+	}
+	.foholic_slider .swiper-slide{
+		altura máxima: 100%;
+		altura: 700px;
+	}
+	.foholic_slider .swiper-contenedor{
+		altura máxima: 100%;
+		altura: 700px;
+	}
+	.foholic_slider{
+		altura: 700px;
+		min-altura: auto;
+	}
+	.foholic_slider .swiper-container-horizontal > .swiper-pagination-bullets{
+		abajo: 70px;
+	}
+	.foholic_content{
+		ancho: 100%;
+	}
+	.foholic-barra lateral fija+.foholic-barra de menú {
+		arriba: 0;
+		derecha: 0;
+		izquierda: heredar;
+	}
+	.foholic-menubar>.menu-ic {
+		pantalla: -ms-flexbox;
+		pantalla: flex;
+		-ms-flex-direction: columna;
+		flexión-dirección: columna;
+		-ms-flex-pack: justificar;
+		justificar-contenido: espacio-entre;
+		ancho: 24px;
+		altura: 24px;
+		transición: -webkit-transform 330ms salida fácil;
+		transición: transformar 330ms salida fácil;
+		transición: transformar 330ms salida fácil, -webkit-transform 330ms salida fácil;
+		índice z: 99;
+	}
+	.foholic-menubar .line-menu {
+		color de fondo: #000000;
+		índice z: 99;
+	}
+	.line-menu.first-line {
+		índice z: 99;
+		-ms-flex-item-align: fin;
+		alinear-se-mismo: flex-end;
+		-webkit-transform-origin: izquierda;
+		origen-transformación: izquierda;
+		transición: -webkit-transform 330ms cúbico-bezier(.54, -.81, .57, .57);
+		transición: transformar 330ms cúbico-bezier(.54, -.81, .57, .57);
+		transición: transformar 330ms cúbico-bezier(.54, -.81, .57, .57),
+		-webkit-transform 330ms cúbico-bezier(.54, -.81, .57, .57);
+	}
+	.line-menu.line-half {
+		ancho: 50%;
+		índice z: 99;
+	}
+	.line-menu {
+		índice z: 99;
+		ancho: 100%;
+		altura: 3px;
+		color de fondo: #111;
+		radio del borde: 2px;
+	}
+	.line-menu.last-line {
+		-ms-flex-item-align: inicio;
+		alinear-se-mismo: inicio-flexible;
+		-webkit-transform-origin: derecha;
+		origen-transformación: derecha;
+		transición: -webkit-transform 330ms cúbico-bezier(.54, -.81, .57, .57);
+		transición: transformar 330ms cúbico-bezier(.54, -.81, .57, .57);
+		transición: transformar 330ms cúbico-bezier(.54, -.81, .57, .57),
+		-webkit-transform 330ms cúbico-bezier(.54, -.81, .57, .57);
+	}
+	.mobile_header .inn-sub-header{
+		pantalla: flex;
+		justificar-contenido: espacio-entre;
+		alinear-elementos: centro;
+		alinear-contenido: centro;
+	}
+	.foholic_content .mobile_header{
+		relleno: 15px 30px 16px 30px;
+		pantalla: bloque;
+		posición: relativa;
+		índice z: 99;
+	}
+	.foholic-fixed-sidebar.open-menu{
+		pantalla: bloque;
+	}
+	.foholic-social-ic{
+		relleno inferior: 50px;
+	}
+	.barra lateral derecha{
+		altura: 100vh;
+		posición: fija;
+		pantalla: -webkit-box;
+		pantalla: -ms-flexbox;
+		pantalla: flex;
+		-webkit-box-orient: vertical;
+		-webkit-box-direccion: normal;
+		-ms-flex-direction: columna;
+		flexión-dirección: columna;
+		-webkit-box-pack: centro;
+		-ms-flex-pack: centro;
+		justificar-contenido: centro;
+		derecha: -100%;
+		color de fondo: #fff;
+		-transición webkit: 0,5 s;
+		-o-transición: 0,5 s;
+		transición: 0,5 s;
+		superior: 75px;
+	}
+	.barra lateral derecha.abrir-menú {
+		derecha: 0;
+		-webkit-box-shadow: 0px 8px 10px -5px #000;
+		caja-sombra: 0px 8px 10px -5px #000;
+		superior: 75px;
+	}
+	.foholic-barra lateral fija .envoltura de menú .logotipo de encabezado{
+		pantalla: ninguna;
+	}
+	.foholic-barra lateral fija .contenedor de encabezado{
+		pantalla: -webkit-box;
+		pantalla: -ms-flexbox;
+		pantalla: flex;
+		-webkit-box-orient: vertical;
+		-webkit-box-direccion: normal;
+		-ms-flex-direction: columna;
+		flexión-dirección: columna;
+		-webkit-box-pack: centro;
+		-ms-flex-pack: centro;
+		justificar-contenido: centro;
+	}
+	.foholic-menubar.menu-open{
+		-webkit-transform: rotar(0);
+		transformar: rotar(0);
+	}
+	.foholic-menubar.menu-open>.menu-ic {
+		-webkit-transform: rotar(-45 grados);
+		transformar: rotar(-45 grados);
+	}
+	.menu-open .line-menu.first-line {
+		-webkit-transform: rotar(-90 grados) traducirX(-10px);
+		transformar: rotar(-90 grados) traducirX(-10px);
+	}
+	.menu-open .line-menu.last-line {
+		-webkit-transform: rotar(-90 grados) traducirX(10px);
+		transformar: rotar(-90 grados) traducirX(10px);
+	}
+	.blog-modal .modal-body {
+		relleno: 60px;
+	}
+}
+
+@media(ancho máximo: 1024px) {
+	.publicación_de_barra_lateral{
+		margen izquierdo: 0;
+	}
+	.modal_blog_popup .light_bg_shape{
+		relleno: 33px 40px 33px 40px;
+		tamaño de fuente: 30px;
+		altura de línea: 44px;
+		margen: 33px 0;
+	}
+	.blog-espaciador{
+		margen: 40px 0;
+	}
+	.comment_form .foholic_button {
+		margen superior: 20px;
+	}
+	.elementos relacionados{
+		relleno: 10px 0;
+	}
+	.modal_blog_popup .modal_title {
+		relleno: 8px 0 28px 0;
+	}
+	.blog-post-comment {
+		relleno superior: 35px;
+	}
+	.foholic_slider {
+		altura: 700px;
+	}
+	.slide_inn_content .slide_title{
+		tamaño de fuente: 58px;
+		altura de línea: 72px;
+	}
+	.historia-folólica{
+		relleno: 80px 0 154px 0;
+	}
+	h2{
+		tamaño de fuente: 52px;
+		altura de línea: 64px;
+	}
+	h3{
+		tamaño de fuente: 32px;
+		altura de línea: 50px;
+	}
+	h4{
+		tamaño de fuente: 52px;
+		altura de línea: 52px;
+	}
+	h5{
+		tamaño de fuente: 32px;
+		altura de línea: 52px;
+	}
+	h6{
+		tamaño de fuente: 26px;
+		altura de línea: 26px;
+	}
+	.season_tast{
+		margen superior: 50px;
+	}
+	.resto_foods h3{
+		relleno: 40px 0;
+	}
+	.fo-abo-last .foholic_button{
+		relleno superior: 50px;
+	}
+	.etiqueta de línea de tiempo h3{
+		tamaño de fuente: 52px;
+		altura de línea: 42px;
+	}
+	.equipo_foholic{
+		relleno: 171px 0 80px 0;
+	}
+	.cabeza_oscura{
+		tamaño de fuente: 52px;
+		altura de línea: 52px;
+		relleno: 20px 0 34px 0;
+	}
+	.swiper{
+		relleno: 60px 0 0 0;
+	}
+	.video_de_comida{
+		relleno: 65px 0 80px 0;
+	}
+	.características_foholic{
+		relleno: 76px 0;
+	}
+	.video_de_comida .título_del_video{
+		relleno inferior: 80px;
+	}
+	botón .food_menu_item{
+		margen: 0 15px 0 0;
+		tamaño de fuente: 18px;
+		altura de línea: 24px;
+	}
+	.foholic_menu{
+		relleno: 76px 0 52px 0;
+	}
+	.menu_wrappe{
+		relleno superior: 28px;
+	}
+	.menu-visible p{
+		relleno inferior: 20px;
+	}
+	.reservación_foholic{
+		relleno: 80px 0;
+	}
+	.formulario-registro{
+		relleno: 30px 30px 46px 30px;
+	}
+	.formulario-registro .foholic_button{
+		relleno superior: 40px;
+	}
+	.formulario-registro .formulario-entrada{
+		margen inferior: 20px;
+	}
+	.foholic_gallery{
+		relleno: 76px 0 80px 0;
+	}
+	.nuestro_blog{
+		relleno: 76px 0 74px 0;
+	}
+	.blog-content .Blog_sub_name{
+		tamaño de fuente: 26px;
+		altura de línea: 26px;
+	}
+	.parte del boletín{
+		relleno: 76px 0;
+	}
+	.parte del boletín .subdetalle_de_noticias{
+		tamaño de fuente: 32px;
+		altura de línea: 42px;
+	}
+	.ubicación-foholic{
+		relleno: 73px 0;
+	}
+	.área de pie de página{
+		relleno: 76px 0 73px 0;
+	}
+	.área de pie de página h4{
+		relleno: 18px 0 70px 0;
+	}
+}
+
+@media(ancho máximo: 991px) {
+	.formulario-registro .complemento-interno{
+		margen inferior: 15px;
+	}
+	.blog-modal .modal-body{
+		relleno: 40px 30px;
+	}
+	.blog_comment .comment_form{
+		relleno inferior: 80px;
+	}
+	.modal_blog_popup .light_bg_shape div{
+		tamaño de fuente: 28px;
+		altura de línea: 38px;
+	}
+	.modal_blog_popup .modal_title{
+		tamaño de fuente: 32px;
+		altura de línea: 32px;
+		relleno: 8px 0 28px 0;
+	}
+	.modal_blog_popup .swiper{
+		relleno: 40px 0 40px 0;
+	}
+	.modal_blog_popup .light_bg_shape{
+		margen: 40px 0px;
+		relleno: 43px 40px 43px 40px;
+	}
+	.formulario-registro .formulario-entrada, .formulario-entrada .seleccionar_opción{
+		altura: 50px;
+	}
+	.form-input .input_ic{
+		relleno: 5px 10px;
+	}
+	.contenido_de_la_entrada_de_la_diapositiva .título_de_la_diapositiva {
+		tamaño de fuente: 50px;
+		altura de línea: 62px;
+	}
+	.historia-folólica {
+		relleno: 60px 0 160px 0;
+	}
+	.características foholic {
+		relleno: 56px 0;
+	}
+	.foholic_features .col-12:not(:último-hijo){
+		margen inferior: 30px;
+	}
+	.feature_lite{
+		relleno inferior: 20px;
+	}
+	.nuestra_historia h2{
+		relleno: 15px 0 30px 0;
+	}
+	h2{
+		tamaño de fuente: 44px;
+		altura de línea: 56px;
+	}
+	h3{
+		tamaño de fuente: 30px;
+		altura de línea: 42px;
+	}
+	h4 {
+		tamaño de fuente: 46px;
+		altura de línea: 46px;
+	}
+	h5 {
+		tamaño de fuente: 30px;
+		altura de línea: 44px;
+	}
+	pags{
+		altura de línea: 26px;
+	}
+	.season_tast {
+		margen superior: 33px;
+	}
+	.food-differs .float-end {
+		ancho máximo: 85%;
+	}
+	.food-differs .top-img {
+		ancho máximo: 50%;
+		margen superior: -87px;
+	}
+	.equipo foholic {
+		relleno: 151px 0 60px 0;
+	}
+	.cabeza_oscura {
+		tamaño de fuente: 46px;
+		altura de línea: 46px;
+		relleno: 15px 0 24px 0;
+	}
+	.video_de_comida {
+		relleno: 50px 0 60px 0;
+	}
+	.más-envoltorio{
+		ancho: 160px;
+		ancho máximo: 160px;
+		altura: 160px;
+	}
+	.botón_ver_video{
+		ancho: 160px;
+		superior: 80px;
+		izquierda: 80px;
+	}
+	.botón_ver_video span{
+		tamaño de fuente: 16px;
+		altura de línea: 16px;
+	}
+	.video_de_comida .título_del_video {
+		relleno inferior: 60px;
+	}
+	.botón-deslizar-siguiente, .botón-deslizar-anterior{
+		ancho: 50px;
+		altura: 50px;
+		altura de línea: 50px;
+	}
+	.swiper .swiper-wrapper {
+		relleno inferior: 40px;
+	}
+	botón .food_menu_item{
+		tamaño de fuente: 18px;
+		margen: 0 15px 0 0;
+	}
+	.table_menu p{
+		relleno inferior: 33px;
+	}
+	.foholic_menu {
+		relleno: 56px 0 38px 0;
+	}
+	.table_menu img{
+		ancho: 100%;
+		margen inferior: 40px;
+	}
+	.menu_wrappe {
+		relleno superior: 18px;
+	}
+	.menu-visible p {
+		relleno inferior: 15px;
+	}
+	.reservación_foholic{
+		relleno: 56px 0 60px 0;
+	}
+	.efecto-hover{
+		ancho: calc(100% - 60px);
+		altura: calc(100% - 60px);
+		superior: 30px;
+		izquierda: 30px;
+	}
+	.hover-icons a{
+		ancho: 50px;
+		altura: 50px;
+		altura de línea: 50px;
+		tamaño de fuente: 16px;
+	}
+	.foholic_gallery {
+		relleno: 56px 0 60px 0;
+	}
+	.swiper {
+		relleno: 50px 0 0 0;
+	}
+	.nuestro_blog {
+		relleno: 56px 0 54px 0;
+	}
+	.blog-item {
+		relleno: 40px 20px 33px 20px;
+	}
+	.blog-content .blogs-block {
+		relleno inferior: 40px;
+	}
+	.parte del boletín, .ubicación del foholic {
+		relleno: 56px 0 53px 0;
+	}
+	.parte del boletín .subdetalle_de_noticias {
+		tamaño de fuente: 30px;
+		altura de línea: 38px;
+		relleno: 20px 0 20px 0;
+	}
+	.foholic-location .location-title {
+		relleno: 20px 0 52px 0;
+	}
+	.área de pie de página {
+		relleno: 56px 0 53px 0;
+	}
+	.información de ubicación p{
+		relleno superior: 23px;
+	}
+	.sub-pie de página span{
+		relleno superior: 80px;
+	}
+	.modal-body video{
+		ancho: 100%;
+		altura:auto;
+	}
+	.modal_blog_popup .light_bg_shape div {
+		tamaño de fuente: 26px;
+		altura de línea: 36px;
+	}
+	.foholic_menu .table_menu, .reservation_detail{
+		alinear texto: centro;
+	}
+	.detalle_de_reserva p{
+		margen: 0 0 35px 0;
+	}
+	.tel-data{
+		justificar-contenido: centro;
+		relleno inferior: 32px;
+	}
+	.contenido_de_reserva{
+		relleno: 20px 0 10px 0;
+	}
+	.tel-data img{
+		ancho: 60px;
+		altura: 60px;
+	}
+	.tel-data:antes{
+		ancho: 30px;
+		altura: 30px;
+		superior: 25px;
+		abajo:auto;
+		izquierda: 0;
+		radio del borde: 50px;
+		margen: 0 auto;
+		derecha: -27px;
+	}
+	.valor-de-progreso{
+		margen izquierdo: -31px;
+	}
+}
+
+@media(ancho máximo: 768px) {
+	.slider_shape_img1, .slider_shape_img2,	
+	.área de pie de página .forma de fondo1, .área de pie de página .forma de fondo2{
+		pantalla: ninguna;
+	}
+}
+
+@media(ancho máximo: 767px) {
+	.barra lateral derecha.abrir-menú{
+		superior: 60px;
+	}
+	.valor-de-progreso{
+		margen izquierdo: -31px;
+	}
+	.tel-data:antes{
+		ancho: 25px;
+		altura: 25px;
+		superior: 15px;
+	}
+	.tel-data img {
+		ancho: 50px;
+		altura: 50px;
+	}
+	.barra lateral derecha{
+		superior: 60px;
+	}
+	.características foholic {
+		relleno: 36px 0;
+	}
+	.dish-ic-box img{
+		ancho: 65px;
+		altura: 65px;
+	}
+	.lista-de-comentarios:antes{
+		izquierda: 17px;
+	}
+	.tst-cuadro-de-comentarios {
+		ancho: calc(100% - 50px);
+	}
+	.lista-de-comentarios .avatar-de-comentarios{
+		ancho: 35px;
+		altura: 35px;
+	}
+	.lista-de-comentarios .caja_secundaria{
+		relleno izquierdo: 30px;
+	}
+	.blog-post-comment {
+		relleno superior: 19px;
+	}
+	.blog-espaciador {
+		margen: 30px 0 26px 0;
+	}
+	.blog_comment .comment_form {
+		relleno inferior: 60px;
+		relleno superior: 24px;
+	}
+	.comment_form .form_label{
+		margen inferior: 10px;
+	}
+	.comment_form .custom-form-control{
+		margen inferior: 16px;
+	}
+	.blog-modal .more-wraper {
+		margen superior: 40px;
+	}
+	.características foholic .cabeza oscura{
+		tamaño de fuente: 42px;
+		altura de línea: 46px;
+	}
+	.dish-ic-box h3{
+		tamaño de fuente: 28px;
+		altura de línea: 36px;
+	}
+	.feature_lite{
+		relleno inferior: 10px;
+	}
+	.elemento_del_menú_de_comida {
+		pantalla: flex;
+		envoltura flexible: nowrap;
+		desbordamiento-x: auto;
+	}
+	.resto_foods .fo-abo-last{
+		relleno inferior: 0;
+	}
+	.foholic_title, .nuestra_historia{
+		alinear texto: centro;
+	}
+	.foholic_subcontent{
+		alinear texto: izquierda;
+	}
+	.formulario-registro{
+		relleno: 30px 25px 44px 25px;
+	}
+	.blog_boxes .container{
+		relleno: 0 15px;
+	}
+	.modal .modal-body{
+		relleno: 0 15px;
+	}
+	.video_modal .btn-close{
+		superior: -20px;
+	}
+	.foholic_content .mobile_header{
+		relleno: 13px 15px 12px 15px;
+	}
+	.blog-modal .modal-body{
+		relleno: 15px 15px 15px 15px;
+	}
+	.blog-comment-box .comment-head{
+		pantalla: bloque;
+	}
+	.blog-comment-box{
+		relleno: 20px;
+		ancho: calc(100% - 50px);
+	}
+	.publicación_de_barra_lateral{
+		relleno: 15px;
+	}
+	.recipiente{
+		relleno: 0 15px!importante;
+	}
+	.button-light::antes{
+		ancho: 32px;
+		altura: 54px;
+	}
+	.button-light::después{
+		ancho: 32px;
+		altura: 54px;
+	}
+	.botón-luz{
+		tamaño de fuente: 16px;
+		altura de línea: 16px;
+	}
+	.tema-btn{
+		pantalla: ninguna;
+	}
+	.logotipo img{
+		ancho: 198px;
+		altura: 35px;
+	}
+	.slide_inn_content .slide_title{
+		tamaño de fuente: 48px;
+		altura de línea: 59px;
+	}
+	.paginación-swiper{
+		pantalla: ninguna;
+	}
+	.historia-folólica{
+		relleno: 36px 0 135px 0;
+	}
+	.resto-img{
+		margen superior: 35px;
+	}
+	.nuestra_historia h2{
+		relleno: 10px 0 25px 0;
+	}
+	imagen{
+		ancho: 100%;
+	}
+	.season_tast {
+		margen: 40px 0 30px 0;
+	}
+	.fo-abo-last .foholic_button{
+		relleno: 40px 0 56px 0;
+	}
+	h3{
+		tamaño de fuente: 28px;
+		altura de línea: 38px;
+	}
+	h4{
+		tamaño de fuente: 42px;
+		altura de línea: 42px;
+	}
+	h5{
+		tamaño de fuente: 28px;
+		altura de línea: 38px;
+	}
+	.food-differs .top-img{
+		margen superior: -125px;
+	}
+	.etiqueta de línea de tiempo h3 {
+		tamaño de fuente: 48px;
+		altura de línea: 38px;
+	}
+	.equipo foholic {
+		relleno: 131px 0 40px 0;
+	}
+	.swiper{
+		relleno: 33px 0 0 0;
+	}
+	.video_de_comida{
+		relleno: 30px 0 40px 0;
+	}
+	.foholic_menu{
+		relleno: 36px 0 18px 0;
+	}
+	.foholic_reservation, .foholic_gallery {
+		relleno: 36px 0 40px 0;
+	}
+	.nuestro_blog{
+		relleno: 36px 0 34px 0;
+	}
+	.blog_boxes .col-12:not(:último-hijo){
+		margen inferior: 20px;
+	}
+	.parte del boletín{
+		relleno: 36px 0 54px 0;
+	}
+	.área de pie de página{
+		relleno: 36px 0 34px 0;
+	}
+	.parte del boletín .subdetalle_de_noticias{
+		tamaño de fuente: 28px;
+		altura de línea: 34px;
+	}
+	.ubicación-foholic{
+		relleno: 36px 0;
+	}
+	.newsletter__form .form-control-input{
+		altura: 50px;
+		tamaño de fuente: 16px;
+		relleno: 0 20px;
+	}
+	.foholic-location .location-title{
+		relleno: 15px 0 33px 0;
+	}
+	.información de ubicación img{
+		ancho: 40px;
+	}
+	.información de ubicación p{
+		relleno: 20px 0;
+	}
+	.área de pie de página h4{
+		relleno: 18px 0 40px 0;
+	}
+	.sub-pie de página span {
+		relleno superior: 50px;
+		altura de línea: 20px;
+	}
+	.menu-wrap .fixed-menu-wrap>ul>li{
+		relleno inferior: 20px ;
+	}
+	.ajuste de menú fijo{
+		relleno inferior: 55px;
+	}
+	.menu-table .número-de-reserva{
+		tamaño de fuente: 24px;
+		altura de línea: 24px;
+	}
+	.modal_blog_popup .light_bg_shape {
+		margen: 30px 0px;
+	}
+	.modal_blog_popup .light_bg_shape{
+		relleno: 30px 20px;
+	}
+	.formulario-registro .foholic_button{
+		relleno superior: 30px;
+	}
+}
+
+@media(ancho máximo: 425px) {
+	.food-differs .top-img {
+		margen superior: -90px;
+	}	
+	botón .food_menu_item{
+		tamaño de fuente: 17px;
+		margen: 0 15px 0 0;
+	}
+	.modal_blog_popup .modal_title{
+		tamaño de fuente: 30px;
+		altura de línea: 30px;
+	}
+	.formulario-registro {
+		relleno: 30px 20px 44px 20px;
+	}
+}
+
+@media(ancho máximo: 375px) {
+	.barra lateral derecha.abrir-menú {
+		ancho: 100%;
+	}
+	.social-ic i, .social-ic ruta de acceso de SVG
+		ancho: 22px;
+		altura: 22px;
+	}
+	.foholic-social-ic .social-ic:no(:último-hijo) {
+		margen derecho: 6px;
+	}
+}
+
+@media(ancho máximo: 340px) {
+	.barra lateral derecha{
+		derecha: -110%;
+	}
+}
+
+
+/************************** Página del blog ***************************/
+
+@media(ancho máximo: 1024px) {
+	.foholic_inn_page .blog_boxes{
+		relleno: 80px 0;
+	}
+	.blog-sub-header{
+		relleno: 100px 0;
+	}
+}
+
+@media(ancho máximo: 991px) {
+	.contenido_del_subencabezado h1{
+		tamaño de fuente: 54px;
+		altura de línea: 60px;
+	}
+	.foholic_inn_page .blog_boxes{
+		relleno: 60px 0;
+	}
+	.blog-sub-header{
+		relleno: 70px 0;
+	}
+}
+
+@media(ancho máximo: 767px) {
+	.contenido_del_subencabezado h1 {
+		tamaño de fuente: 50px;
+		altura de línea: 55px;
+	}
+	.foholic_inn_page .blog_boxes{
+		relleno: 40px 0;
+	}
+	.blog-sub-header{
+		relleno: 60px 0;
+	}
+	.paginación{
+		relleno superior: 10px;
+	}
+}
+
+
+
+/*************************** Página del chef ****************************/
+
+@media(ancho máximo: 1024px) {
+	.personal del equipo{
+		relleno: 80px 0 50px 0;
+	}
+	.chef-sub-header{
+		relleno: 100px 0;
+	}
+	.blog_de_equipo .diálogo-modal{
+		ancho máximo: 820px;
+	}
+}
+
+@media(ancho máximo: 991px) {
+	.chef-sub-header{
+		relleno: 70px 0;
+	}
+	.personal del equipo{
+		relleno: 60px 0 30px 0;
+	}
+	.blog_de_equipo .diálogo-modal{
+		ancho máximo: 800px;
+	}
+	.cuadro emergente de equipo h5{
+		tamaño de fuente: 26px;
+		altura de línea: 35px;
+	}
+}
+
+@media(ancho máximo: 767px) {
+	.personal del equipo{
+		relleno: 40px 0 10px 0;
+	}
+	.team_blog .modal-dialog-scrollable .modal-body{
+		desbordamiento-y: auto;
+	}
+	.blog_de_equipo .contenido-modal{
+		relleno: 15px 0;
+	}
+	.blog_de_equipo .cuerpo-modal{
+		relleno: 0 15px;
+	}
+	.barra_de_habilidades{
+		relleno superior: 15px;
+	}
+	.blog_del_equipo .detalle_del_equipo{
+		relleno superior: 20px;
+	}
+	.blog_de_equipo .diálogo-modal{
+		relleno: 15px;
+		ancho máximo: 850px;
+	}
+	.cuadro emergente de equipo img{
+		ancho:auto;
+	}
+	.cuadro emergente de equipo .iconos modales{
+		relleno superior: 15px;
+	}
+
+}@media (max-width: 991px) {
+  .foholic-fixed-sidebar {
+    display: none;
+  }
+
+  
+
+@media (max-width: 991px) {
+  .foholic-fixed-sidebar {
+    display: none !important;
+  }
+
+  .foholic-menubar {
+    display: none !important;
+  }
+
+  .foholic_content {
+    width: 100% !important;
+    margin-left: 0 !important;
+  }
+}
+
+
+
+
+
+
+@media (max-width: 991px) {
+  .foholic-fixed-sidebar {
+    transform: translateX(100%);
+    transition: transform 0.3s ease;
+    position: fixed;
+    top: 0;
+    right: 0;
+    width: 280px;
+    height: 100%;
+    background: #ffffff;
+    z-index: 9999;
+    display: block;
+  }
+
+  .foholic-fixed-sidebar.open-menu {
+    transform: translateX(0);
+  }
+
+  .foholic_content {
+    width: 100% !important;
+    margin-left: 0 !important;
+  }
+}
+
